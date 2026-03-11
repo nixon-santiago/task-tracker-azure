@@ -22,19 +22,9 @@ https://tasktracker-nixon-ftecekhrgac5ghde.southindia-01.azurewebsites.net
 
 ---
 
-# Architecture
+## Architecture Diagram
 
-Application Architecture
-
-User Browser  
-↓  
-Azure App Service  
-↓  
-ASP.NET Core MVC Application  
-↓  
-Azure SQL Database  
-↓  
-Application Insights Monitoring  
+![Architecture](architecture/architecture.png)
 
 ---
 
